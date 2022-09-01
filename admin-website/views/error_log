@@ -1,0 +1,468 @@
+[13-Jul-2019 05:44:38 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 106
+[13-Jul-2019 05:44:38 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 109
+[13-Jul-2019 06:03:49 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 106
+[13-Jul-2019 06:03:49 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 109
+[13-Jul-2019 06:04:18 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 106
+[13-Jul-2019 06:04:18 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Slide/update.php on line 109
+[13-Jul-2019 06:33:50 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 106
+[13-Jul-2019 06:33:50 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 109
+[13-Jul-2019 06:34:00 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 106
+[13-Jul-2019 06:34:00 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 109
+[13-Jul-2019 06:52:39 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Category/update.php on line 102
+[13-Jul-2019 06:52:39 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Category/update.php on line 105
+[14-Jul-2019 05:18:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Author.php:222
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/index.php(3): Author->count_all()
+#1 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(52): include('/home/harunspo/...')
+#2 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Author.php on line 222
+[14-Jul-2019 06:26:42 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 06:27:00 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 06:27:37 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 06:51:28 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 06:53:10 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 06:56:17 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 06:58:03 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:00:07 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:08:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 116
+[14-Jul-2019 07:13:26 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:13:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:13:51 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:13:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:14:53 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:14:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:15:18 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:15:18 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:15:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:15:52 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:15:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:16:26 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:16:26 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:16:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:17:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:17:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:17:43 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:17:44 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:17:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:18:36 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:18:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:19:00 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:19:01 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:19:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:19:38 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:19:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:20:07 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:20:08 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:20:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:45:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:45:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:45:52 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:45:52 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:45:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:47:04 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:47:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:47:35 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:47:36 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:47:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:48:12 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:48:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:48:36 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:48:50 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:48:54 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:48:57 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:49:43 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:49:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 07:50:02 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:50:13 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:55:29 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:55:57 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:55:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:55:57 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:55:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:56:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:56:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:56:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:56:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:56:28 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:56:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:56:28 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:56:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:57:02 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 07:58:05 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:58:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 07:58:05 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 07:58:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:00:08 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:00:13 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:00:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:01:15 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:02:12 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:02:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:03:19 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:03:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:03:50 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:13:27 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:13:27 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:14:46 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:14:46 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:15:46 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 08:16:12 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:16:12 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:17:33 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:17:33 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:17:46 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:17:46 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 65
+[14-Jul-2019 08:21:40 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:21:40 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 66
+[14-Jul-2019 08:26:26 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:26:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:26:44 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:27:59 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:27:59 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:30:03 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:30:03 UTC] PHP Notice:  Array to string conversion in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:31:44 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:31:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:32:44 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:32:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:32:56 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:32:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:33:44 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:39:05 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:39:52 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:40:19 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:40:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:42:02 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:42:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 67
+[14-Jul-2019 08:50:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 08:51:47 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 08:52:30 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 09:01:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 09:01:29 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 281
+[14-Jul-2019 09:02:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 09:02:27 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 281
+[14-Jul-2019 09:03:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 09:03:29 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 281
+[14-Jul-2019 09:04:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 19:31:57 UTC] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 215
+[14-Jul-2019 19:44:52 UTC] PHP Notice:  Undefined index: file in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 4
+[14-Jul-2019 19:44:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Images::create(), 0 passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 181 and exactly 6 expected in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php:262
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php(181): Images->create()
+#1 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php(13): Images->save('Image241', NULL, '1001', '102', '2001', 'TTT,Tag 2')
+#2 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(63): include('/home/harunspo/...')
+#3 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 262
+[14-Jul-2019 19:46:39 UTC] PHP Notice:  Undefined index: file in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 4
+[14-Jul-2019 19:46:44 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 19:47:56 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 19:48:26 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 19:48:26 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 19:55:33 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[14-Jul-2019 19:55:41 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 374
+[14-Jul-2019 19:57:34 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 8
+[14-Jul-2019 19:57:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 8
+[14-Jul-2019 19:58:31 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 19:58:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 19:59:53 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 19:59:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 20:01:06 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 20:01:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[14-Jul-2019 20:01:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[15-Jul-2019 08:35:00 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 08:39:52 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[15-Jul-2019 08:40:47 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 08:50:35 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 08:51:34 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 10
+[15-Jul-2019 08:51:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 10
+[15-Jul-2019 08:51:34 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 08:52:46 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 08:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function DateTime() in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php:6
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(21): include()
+#1 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 6
+[15-Jul-2019 09:01:13 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 09:06:33 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 09:08:06 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 09:10:10 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 09:17:45 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[15-Jul-2019 09:18:53 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[15-Jul-2019 09:18:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[15-Jul-2019 09:19:22 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[17-Jul-2019 06:13:07 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[17-Jul-2019 06:13:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[17-Jul-2019 06:13:44 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[17-Jul-2019 07:26:42 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:26:42 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:26:42 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:28:21 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[17-Jul-2019 07:28:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[17-Jul-2019 07:28:24 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:28:24 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:28:24 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:28:24 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[17-Jul-2019 07:29:38 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[18-Jul-2019 06:06:04 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 106
+[18-Jul-2019 06:06:04 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 109
+[18-Jul-2019 06:08:34 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[18-Jul-2019 16:31:47 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[18-Jul-2019 16:31:47 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[18-Jul-2019 16:31:47 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[18-Jul-2019 16:31:47 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[18-Jul-2019 16:42:23 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[20-Jul-2019 17:25:29 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[20-Jul-2019 17:41:29 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 106
+[20-Jul-2019 17:41:29 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 109
+[20-Jul-2019 17:41:41 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 106
+[20-Jul-2019 17:41:41 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 109
+[21-Jul-2019 04:50:12 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[21-Jul-2019 04:52:12 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[21-Jul-2019 04:53:29 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:53:29 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:53:29 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:53:29 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:55:33 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[21-Jul-2019 04:55:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[21-Jul-2019 04:55:36 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:55:36 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:55:36 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:55:36 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 04:55:36 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:01:04 UTC] PHP Notice:  Undefined property: stdClass::$category_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Category/index.php on line 58
+[21-Jul-2019 05:15:10 UTC] PHP Notice:  Undefined property: stdClass::$author_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/index.php on line 59
+[21-Jul-2019 05:17:28 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 100
+[21-Jul-2019 05:17:28 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Author/update.php on line 103
+[21-Jul-2019 05:17:51 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:17:51 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:17:51 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:17:51 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:17:51 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:18:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:18:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:18:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:18:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:18:09 UTC] PHP Notice:  Undefined property: stdClass::$Images_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/index.php on line 59
+[21-Jul-2019 05:21:45 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/update.php on line 98
+[21-Jul-2019 05:21:45 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/update.php on line 101
+[21-Jul-2019 05:22:18 UTC] PHP Notice:  Undefined property: stdClass::$category_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 65
+[21-Jul-2019 05:22:18 UTC] PHP Notice:  Undefined property: stdClass::$category_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 65
+[21-Jul-2019 05:22:18 UTC] PHP Notice:  Undefined property: stdClass::$author_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 73
+[21-Jul-2019 05:22:18 UTC] PHP Notice:  Undefined property: stdClass::$author_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 73
+[21-Jul-2019 05:24:32 UTC] PHP Notice:  Undefined property: stdClass::$category_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 65
+[21-Jul-2019 05:24:32 UTC] PHP Notice:  Undefined property: stdClass::$category_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 65
+[21-Jul-2019 05:24:32 UTC] PHP Notice:  Undefined property: stdClass::$author_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 73
+[21-Jul-2019 05:24:32 UTC] PHP Notice:  Undefined property: stdClass::$author_code in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 73
+[21-Jul-2019 05:26:22 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[22-Jul-2019 07:36:59 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Subscribe.php on line 378
+[22-Jul-2019 07:38:29 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Subscribe.php on line 378
+[22-Jul-2019 07:41:30 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Subscribe.php on line 378
+[22-Jul-2019 07:41:34 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Subscribe.php on line 378
+[22-Jul-2019 15:31:34 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[23-Jul-2019 04:02:00 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:02:00 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:02:18 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:02:18 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:05:24 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:05:24 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:05:33 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:05:33 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:06:05 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:06:05 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:10:37 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:10:37 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:14:01 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:14:01 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:14:29 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:14:29 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:23:24 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:23:24 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[23-Jul-2019 04:23:44 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 105
+[23-Jul-2019 04:23:44 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Advertise/update.php on line 108
+[24-Jul-2019 04:42:09 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1563134466big-thumb.jpg): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Images.php on line 374
+[24-Jul-2019 04:42:36 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1563134466big-thumb.jpg): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 495
+[24-Jul-2019 04:42:40 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1563182333page_id.jpg): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 495
+[24-Jul-2019 04:53:48 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 04:53:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 04:57:53 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:01:46 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 19
+[24-Jul-2019 05:01:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 19
+[24-Jul-2019 05:01:46 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:03:05 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:07:56 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 05:07:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 05:12:59 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:13:48 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 19
+[24-Jul-2019 05:13:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 19
+[24-Jul-2019 05:13:48 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:14:35 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:15:48 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 05:43:23 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 05:43:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 05:46:58 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:04:22 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:09:19 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:09:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:11:15 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:11:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:12:56 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:13:31 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:15:43 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:19:13 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:19:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:20:12 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:22:26 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:22:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:23:20 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:25:06 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:25:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:26:18 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:27:59 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:27:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:28:51 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:34:48 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:34:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:35:58 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:39:55 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:39:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:41:10 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:42:22 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:42:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:43:10 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:45:48 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:45:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:47:00 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:48:39 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:48:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:50:02 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 08:51:14 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:51:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 08:51:57 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:01:32 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:01:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:02:27 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:05:01 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:05:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:06:15 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:06:40 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:07:46 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:07:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:08:39 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:10:15 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:10:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:11:06 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[24-Jul-2019 09:12:14 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:12:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[24-Jul-2019 09:13:14 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 04:03:40 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 106
+[25-Jul-2019 04:03:40 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 109
+[25-Jul-2019 04:05:16 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 106
+[25-Jul-2019 04:05:16 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 109
+[25-Jul-2019 04:05:43 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1563944876Ayodeji_Awosika content img.jpeg): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 571
+[25-Jul-2019 04:05:43 UTC] PHP Notice:  Undefined property: stdClass::$father_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 106
+[25-Jul-2019 04:05:43 UTC] PHP Notice:  Undefined property: stdClass::$mother_name in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/update.php on line 109
+[25-Jul-2019 04:06:24 UTC] PHP Warning:  unlink(/home/harunspo/morningreads.harunsportfolio.com/admin-website/images/1563956879download (1).jpg): No such file or directory in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 571
+[25-Jul-2019 08:40:47 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:40:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:41:52 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 08:43:51 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:43:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:44:51 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 08:47:10 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:47:10 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:51:03 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 08:53:09 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:53:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:54:22 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 08:55:38 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:55:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:56:46 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 08:59:12 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 08:59:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:00:08 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:01:18 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:01:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:02:08 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:03:03 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:03:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:04:06 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:10:46 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:10:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:11:37 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:12:33 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:12:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:13:39 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:15:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:15:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:16:14 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:20:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:20:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:21:20 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[25-Jul-2019 09:22:23 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:22:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[25-Jul-2019 09:23:22 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 04:46:32 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 04:46:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 04:47:39 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 04:49:54 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 04:56:09 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 04:57:12 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:21:05 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:21:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:22:20 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:35:32 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:35:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:36:51 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:39:01 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:39:50 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:41:44 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:42:39 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:47:47 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:49:42 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:51:10 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:51:52 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 06:59:17 UTC] PHP Notice:  Undefined index: tags in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:59:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Images/create.php on line 3
+[29-Jul-2019 06:59:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 58
+[29-Jul-2019 07:01:57 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:03:14 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:04:44 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 58
+[29-Jul-2019 07:06:01 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:07:58 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:09:28 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:11:18 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:11:18 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 58
+[29-Jul-2019 07:13:15 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php:58
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(46): include()
+#1 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 58
+[29-Jul-2019 07:17:29 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:18:54 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 07:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php:4
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(46): include()
+#1 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 4
+[29-Jul-2019 07:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addslahes() in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php:4
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(46): include()
+#1 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 4
+[29-Jul-2019 07:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php:4
+Stack trace:
+#0 /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/index.php(46): include()
+#1 {main}
+  thrown in /home/harunspo/morningreads.harunsportfolio.com/admin-website/views/Content/create.php on line 4
+[29-Jul-2019 08:02:19 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
+[29-Jul-2019 08:03:36 UTC] PHP Notice:  Undefined variable: attributes in /home/harunspo/morningreads.harunsportfolio.com/admin-website/src/Content.php on line 273
